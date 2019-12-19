@@ -1,5 +1,4 @@
 bs4
-gunicorn
 python-pushover
 lxml
 requests
