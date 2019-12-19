@@ -1,2 +1,1 @@
-
-web: gunicorn app:Site
+worker: python Site.py
